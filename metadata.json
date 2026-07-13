@@ -1,0 +1,6 @@
+{
+  "name": "SafeGuard",
+  "description": "Content blocker and app monitor using VPN and Accessibility services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

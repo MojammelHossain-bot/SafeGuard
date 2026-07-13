@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SafeGuard</string>
+    <string name="accessibility_service_description">SafeGuard uses Accessibility Service to monitor app usage and block adult content in browsers.</string>
+</resources>
